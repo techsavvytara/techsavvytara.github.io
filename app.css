@@ -7,6 +7,7 @@ body{
     color: white;
 }
 h1{
+    font-family: Titillium Web;
     color: white;
     text-align: center;
     font-size: 60px;
@@ -16,11 +17,13 @@ p, h2, h3{
     margin: auto;
 }
 h2{
+    font-family: Titilium web;
     color: #66b5ca;
     font-size: 40px;
     text-align: center;
 }
 h3{
+    font-family: Titillium Web;
     font-size: 25px;
     padding: 0px 300px 0px 300px;
 }
