@@ -3,7 +3,7 @@
     margin-right: 0px;
     margin-bottom: 0px;
     margin-left: 0px;
-    background: rgba(107, 39, 19);
+    background: #6b2713;
     color: white;
 }
 h1{
@@ -17,13 +17,13 @@ p, h2, h3{
     margin: auto;
 }
 h2{
-    font-family: Titilium web;
+    font-family: Indie Flower;
     color: #66b5ca;
     font-size: 40px;
     text-align: center;
 }
 h3{
-    font-family: Titillium Web;
+    font-family: Indie Flower;
     font-size: 25px;
     padding: 0px 300px 0px 300px;
 }
