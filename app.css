@@ -31,6 +31,9 @@ p{
     text-align: left;
     padding: 0px 200px 0px 200px;
 }
+h1, h2, h3 {
+        padding: 0px 200px 0px 200px;
+}
 li{
     padding: 0px 300px 0px 300px;
 }
