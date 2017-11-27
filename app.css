@@ -1,7 +1,6 @@
 body{
     background: #6b2713;
     color: white;
-    margin: auto;
 }
 h1{
     font-family: Raleway;
@@ -16,11 +15,12 @@ h2{
     font-family: Raleway;
     color: #66b5ca;
     font-size: 40px;
-    text-align: center;
+    margin: auto;
 }
 h3{
     font-family: Raleway;
     font-size: 25px;
+    margin: auto;
 }
 ul {
     padding: 10px;
