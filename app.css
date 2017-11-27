@@ -48,6 +48,9 @@ header{
     background-size: cover;
     text-align: center;
 }
+article{
+    margin: 0 auto;
+}
 .hs{
     display: block;
     margin: 0 auto;
