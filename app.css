@@ -10,6 +10,7 @@ h1{
 }
 p, h2, h3{
     text-indent: 20px;
+    margin: auto;
 }
 h2{
     font-family: Raleway;
@@ -25,6 +26,9 @@ h3{
 ul {
     padding: 10px;
     list-style-position: inside;
+}
+a {
+    margin: auto;
 }
 p{
     font-size: 20px;
