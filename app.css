@@ -26,10 +26,6 @@ ul {
     padding: 10px;
     list-style-position: inside;
 }
-a {
-    margin: auto;
-    color: white;
-}
 p{
     font-size: 20px;
     text-align: left;
@@ -48,6 +44,10 @@ header{
     background: url("images/autumn.jpg");
     background-size: cover;
     text-align: center;
+}
+.hs{
+    margin: auto;
+    color: white;
 }
 .headerpic{
     border-style: solid;
