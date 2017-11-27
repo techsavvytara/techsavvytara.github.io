@@ -46,6 +46,7 @@ header{
     text-align: center;
 }
 .hs{
+    display: block;
     margin: auto;
     color: white;
 }
