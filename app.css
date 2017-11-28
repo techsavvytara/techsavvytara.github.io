@@ -29,13 +29,12 @@ ul {
 p{
     font-size: 20px;
     text-align: left;
-    padding: 0px 200px 0px 200px;
 }
 h1, h2, h3 {
-        padding: 0px 200px 0px 200px;
+    margin: 0 auto;
 }
 li{
-    padding: 0px 300px 0px 300px;
+    margin: 0 auto;
 }
 table, th, tr, td{
     border: 3px solid #d47a02;
@@ -51,7 +50,6 @@ header{
 article{
     margin: 0 auto;
     display: inline;
-    width: 500px;
 }
 .hs{
     padding: 0px 200px 0px 200px;
