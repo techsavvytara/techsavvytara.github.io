@@ -51,7 +51,7 @@ header{
 article{
     margin: 0 auto;
     display: block;
-    width: 200px;
+    width: 500px;
 }
 .hs{
     padding: 0px 200px 0px 200px;
@@ -122,11 +122,6 @@ article{
     border-color: #d47a02;
     display: block;
     margin: 0 auto;
-}
-@media (max-width: 1000px) {
-    p, h2, h3{
-        padding: 0px, 10px, 0px, 10px;
-    }
 }
 /*
 Homepage button
