@@ -112,7 +112,7 @@ header{
     border-width: 5px;
     border-color: #d47a02;
     display: block;
-    margin: 0;
+    margin: 0 auto;
 }
 .pokeball{
     border-style: solid;
