@@ -20,12 +20,12 @@ h2{
     font-family: Raleway;
     color: #66b5ca;
     font-size: 40px;
-    margin: 0 auto;
+    padding: 0px, 200px, 0px, 200px;
 }
 h3{
     font-family: Raleway;
     font-size: 25px;
-    margin: 0 auto;
+    padding: 0px, 200px, 0px, 200px;
 }
 ul {
     padding: 10px;
@@ -34,9 +34,6 @@ ul {
 p{
     font-size: 20px;
     text-align: left;
-}
-h1, h2, h3 {
-    margin: 0 auto;
 }
 li{
     margin: 0 auto;
@@ -51,11 +48,6 @@ header{
     background: url("images/autumn.jpg");
     background-size: cover;
     text-align: center;
-}
-article{
-    margin-right: 200px;
-    margin-left: 200px;
-    display: inline;
 }
 .hs{
     padding: 0px 200px 0px 200px;
