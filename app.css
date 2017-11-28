@@ -50,7 +50,7 @@ header{
 }
 article{
     margin: 0 auto;
-    display: block;
+    display: inline;
     width: 500px;
 }
 .hs{
