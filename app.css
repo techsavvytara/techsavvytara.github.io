@@ -15,20 +15,20 @@ h1{
 p, h2, h3{
     display: block;
     text-indent: 20px;
-    padding: 0px, 200px, 0px, 200px;
+    padding: 0px, 400px, 0px, 400px;
 }
 h2{
     display: block;
     font-family: Raleway;
     color: #66b5ca;
     font-size: 40px;
-    padding: 0px, 200px, 0px, 200px;
+    padding: 0px, 400px, 0px, 400px;
 }
 h3{
     font-family: Raleway;
     font-size: 25px;
     display: block;
-    padding: 0px, 200px, 0px, 200px;
+    padding: 0px, 400px, 0px, 400px;
 }
 ul {
     padding: 10px;
@@ -36,13 +36,13 @@ ul {
 }
 p{
     display: block;
-    padding: 0px, 200px, 0px, 200px;
+    padding: 0px, 400px, 0px, 400px;
     font-size: 20px;
     text-align: left;
 }
 li{
     display: block;
-    padding: 0px, 200px, 0px, 200px;
+    padding: 0px, 400px, 0px, 400px;
 }
 table, th, tr, td{
     border: 3px solid #d47a02;
@@ -57,7 +57,7 @@ header{
 }
 .hs{
     display: block;
-    padding: 0px 200px 0px 200px;
+    padding: 0px 400px 0px 400px;
     color: white;
 }
 .headerpic{
