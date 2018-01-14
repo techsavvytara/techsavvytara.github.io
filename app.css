@@ -64,6 +64,10 @@ header{
     display: block;
     padding: 0px 200px 0px 200px;
 }
+.inequality{
+    display: block;
+    padding: 0px 200px 0px 200px;
+}
 .headerpic{
     border-style: solid;
     border-width: 5px;
